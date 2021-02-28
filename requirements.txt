@@ -40,7 +40,6 @@ nbconvert
 nbformat 
 nest-asyncio 
 notebook 
-numpy==1.21.0
 packaging 
 pandas==1.2.2
 pandocfilters 
