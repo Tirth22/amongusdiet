@@ -21,4 +21,4 @@ Contributers
 - TIRTH PATEL
 
 Acknowledgments:
->thanks Vaibhav Chopra, Manasvi Alimchandani, Jayesh Singh, Lakshit Kothari, Zaina Nisar for mentoring us during the timeline of the project.
+>Thanks Vaibhav Chopra, Manasvi Alimchandani, Jayesh Singh, Lakshit Kothari, Zaina Nizar for mentoring us during the timeline of the project.
